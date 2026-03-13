@@ -6,7 +6,7 @@
 },
   "CLIENTE-PRUEBA": {
     "cliente": "Servidor de Pruebas",
-    "active": true
+    "active": true,
     "hwid": "0x1f4b23d9"
   }
 }
