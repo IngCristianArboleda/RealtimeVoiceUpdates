@@ -1,7 +1,7 @@
 {
   "DEV-APP-2026": {
     "cliente": "Licencia Maestra de Cristian",
-    "active": true
+    "active": false
   },
   "CLIENTE-PRUEBA": {
     "cliente": "Servidor de Pruebas",
