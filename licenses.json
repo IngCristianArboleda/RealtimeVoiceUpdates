@@ -2,9 +2,11 @@
   "DEV-APP-2026": {
     "cliente": "Licencia Maestra de Cristian",
     "active": true
+    "hwid": "0xd145e1d8b919"    <--- ID único del PC
   },
   "CLIENTE-PRUEBA": {
     "cliente": "Servidor de Pruebas",
     "active": true
+    "hwid": "0x1f4b23d9"    <--- ID único
   }
 }
