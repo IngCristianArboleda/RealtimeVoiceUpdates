@@ -4,9 +4,9 @@
   "active": true,
   "hwid": "0xd145e1d8b918"
 },
-  "CLIENTE-PRUEBA": {
-    "cliente": "Servidor de Pruebas",
-    "active": true,
-    "hwid": "0x1f4b23d9"
-  }
+  "2f368c3c9bacbb39bf5631913a705cd3de4148cbd78b5f5c64f870ae581f6a35": {
+  "cliente": "Servidor de Pruebas",
+  "active": true,
+  "hwid": "0x2cf05d8f88cc"
+}
 }
