@@ -23,5 +23,10 @@
   "cliente": "Laureles room-10",
   "active": true,
   "hwid": "0xe7c3ae33194c"
+},
+  "cc1da4efbb07af3bfd276781665108d3522981b58e046eb11d8944b9a96c2d13": {
+  "cliente": "PC Fernado y Edwar",
+  "active": true,
+  "hwid": "0xc9d92c0bfd6"
 }
 }
