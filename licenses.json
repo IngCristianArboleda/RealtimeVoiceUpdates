@@ -18,5 +18,10 @@
   "cliente": "lAURELES ROOM 9",
   "active": true,
   "hwid": "0x82267be4d98f"
+},
+  "4aaa171a13e51a222a91278df62232c900fdb244f3c76d096dffb2fc9666eceb": {
+  "cliente": "Laureles room-10",
+  "active": true,
+  "hwid": "0xe7c3ae33194c"
 }
 }
