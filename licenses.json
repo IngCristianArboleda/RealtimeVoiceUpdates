@@ -28,5 +28,10 @@
   "cliente": "PC Fernado y Edwar",
   "active": true,
   "hwid": "0xc9d92c0bfd6"
+},
+  "12d45d365bdec18fbc89730b89bc0c7ef10abf422a25346a776b053aa92f67f2": {
+  "cliente": "Room-2-Castellana",
+  "active": true,
+  "hwid": "0x2cf05d8f8adf"
 }
 }
