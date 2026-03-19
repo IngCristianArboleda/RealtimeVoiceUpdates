@@ -43,5 +43,10 @@
   "cliente": "ROOM-1-CASTELLANA",
   "active": true,
   "hwid": "0xe792bd05d071"
+},
+  "2b06d1b2ee7b2aa45fa1d1770002f57de7d5bc6106bff710733f4a417b0005de": {
+  "cliente": "PC-Mauricio-Personal",
+  "active": true,
+  "hwid": "9b759135-6af7-4b89-b261-b28424f778ef"
 }
 }
