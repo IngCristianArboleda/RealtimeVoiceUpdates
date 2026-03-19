@@ -9,44 +9,15 @@
   "active": true,
   "hwid": "12FA3893-846A-E816-A5E8-2CF05D8F88CC"
 },
-  "61e60a2f7cb6ea2786129a16094a6cbeb6308c370cf81a2a7029988e163a847f": {
-  "cliente": "pc de mauricio - leidy",
-  "active": true,
-  "hwid": "95664dc1-d0d7-40cc-9786-46bca20eb9e7"
-},
-  "275a0819dd5e7fa11541228870d20369e893908c73108722adaa0e6f1b760f31": {
-  "cliente": "lAURELES ROOM 9",
-  "active": true,
-  "hwid": "0x82267be4d98f"
-},
-  "4aaa171a13e51a222a91278df62232c900fdb244f3c76d096dffb2fc9666eceb": {
-  "cliente": "Laureles room-10",
-  "active": true,
-  "hwid": "0xe7c3ae33194c"
-},
-  "cc1da4efbb07af3bfd276781665108d3522981b58e046eb11d8944b9a96c2d13": {
-  "cliente": "PC Fernado y Edwar",
-  "active": true,
-  "hwid": "0xc9d92c0bfd6"
-},
-  "12d45d365bdec18fbc89730b89bc0c7ef10abf422a25346a776b053aa92f67f2": {
-  "cliente": "Room-2-Castellana",
-  "active": true,
-  "hwid": "0x2cf05d8f8adf"
-},
-  "9e3467c0e8295590fb121c59d78cea9143f4df12317d28fba2fe44600246e870": {
-  "cliente": "ROOM-4-CASTELLANA",
-  "active": true,
-  "hwid": "0x2cf05dea5dd2"
-},
-  "3965d01051e181462580e9926a863bd943e6f8404e6592bc627be263adf0c47b": {
-  "cliente": "ROOM-1-CASTELLANA",
-  "active": true,
-  "hwid": "0xe792bd05d071"
-},
+ 
   "2b06d1b2ee7b2aa45fa1d1770002f57de7d5bc6106bff710733f4a417b0005de": {
   "cliente": "PC-Mauricio-Personal",
   "active": true,
   "hwid": "9b759135-6af7-4b89-b261-b28424f778ef"
+},
+  "4177df452b4c422a7bc9d2971a5e61dd9e18646b3dbed6de34ef284a76b0df08": {
+  "cliente": "ROOM -1-CENTENARIO",
+  "active": true,
+  "hwid": "89fe42c0-238b-4865-be3a-fff3cdf74ba9"
 }
 }
