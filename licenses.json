@@ -24,5 +24,10 @@
   "cliente": "ROOM 4 CENTENARIO",
   "active": true,
   "hwid": "32c69b4d-a27f-4923-a2f8-685355ddadc8"
+},
+  "bf9a555839b8d29e8aabd52c18d66ba252c9dd6c9e15352d0394846251d1cc5a": {
+  "cliente": "ROOM-4-BELLANOVA",
+  "active": true,
+  "hwid": "c460a5d8-5b38-4e3c-a9a6-fdb086204900"
 }
 }
