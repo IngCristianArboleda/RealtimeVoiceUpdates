@@ -48,5 +48,10 @@
   "cliente": "ROOM-1-BELLANOVA",
   "active": true,
   "hwid": "bf499c23-0b59-4b60-96f4-1f8e685a30d8"
+},
+  "e50fdb1fb636b749c3d3ce1ce48860ab8fdc90faac882e57b22eef57eba37c0d": {
+  "cliente": "ROOM-5-BELLANOVA",
+  "active": true,
+  "hwid": "8b0adef6-9e45-4af3-99d0-133ee6b0df90"
 }
 }
