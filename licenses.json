@@ -58,5 +58,10 @@
   "cliente": "ROOM-3-BELLANOVA",
   "active": true,
   "hwid": "131bccce-0f09-4365-8c7a-93c294709326"
+},
+  "219332054e420270a13ba210cf247522ead45bf31fd16e68556435e5afb7eae3": {
+  "cliente": "PC-FERNANDO-EDWAR",
+  "active": true,
+  "hwid": "4f82dde3-a35c-41aa-a6fb-0bd79cefcc6d"
 }
 }
