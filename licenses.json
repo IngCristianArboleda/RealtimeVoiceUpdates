@@ -93,5 +93,10 @@
   "cliente": "ROOM 11 LAURELES",
   "active": true,
   "hwid": "368b633d-cae8-4ca8-a3d8-08ffa557c78f"
+},
+  "5113f5b2da389c0d418b8addf1378186338a8d5834a170202c7ac730c7b134ae": {
+  "cliente": "PC SANTIAGO VELEZ",
+  "active": true,
+  "hwid": "3268104e-cc7d-466a-a2ad-530f6d594a01"
 }
 }
