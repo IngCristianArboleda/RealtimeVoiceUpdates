@@ -63,5 +63,10 @@
   "cliente": "PC-FERNANDO-EDWAR",
   "active": true,
   "hwid": "4f82dde3-a35c-41aa-a6fb-0bd79cefcc6d"
+},
+  "e687a4906ecf991bfa692f6c70242a41504fedd829a2afaca088c40f3c7c3931": {
+  "cliente": "pc de mauricio - leidy",
+  "active": true,
+  "hwid": "95664dc1-d0d7-40cc-9786-46bca20eb9e7"
 }
 }
