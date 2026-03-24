@@ -83,5 +83,10 @@
   "cliente": "ROOM 12 LAURELES",
   "active": true,
   "hwid": "7d79a526-3d08-47fa-a154-6b910f251157"
+},
+  "89aacc0b6e4e2fca6b711ce49a7eae1ee5d9ce68da235283dd1ee98704dd41c3": {
+  "cliente": "ROOM 16 LAURELES",
+  "active": true,
+  "hwid": "b01383cb-0568-4964-a301-663d8c283b40"
 }
 }
