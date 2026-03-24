@@ -98,5 +98,10 @@
   "cliente": "PC SANTIAGO VELEZ",
   "active": true,
   "hwid": "3268104e-cc7d-466a-a2ad-530f6d594a01"
+},
+  "59076a8391afb6567056c0ea5d712c1b8a6d2885870f4aad9413fdfb5d23149a": {
+  "cliente": "ROOM 1 - MOCAWA",
+  "active": true,
+  "hwid": "8398211f-0336-49ca-a8d0-7d1808fb93a7"
 }
 }
