@@ -68,5 +68,10 @@
   "cliente": "pc de mauricio - leidy",
   "active": true,
   "hwid": "95664dc1-d0d7-40cc-9786-46bca20eb9e7"
+},
+  "9f95ef62b2cc7133615c112e35df9f0802c6b1635ff82a9ba0b3eed68edc6b49": {
+  "cliente": "ROOM 9 LAURELES",
+  "active": true,
+  "hwid": "de75001a-464f-42a2-8369-91157a7940ef"
 }
 }
