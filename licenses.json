@@ -128,5 +128,10 @@
   "cliente": "room-9-centro",
   "active": true,
   "hwid": "95aa04c2-9542-43e6-a24a-e680424f25be"
+},
+  "e30a547ab311368fd4613c708810e0e7090e2d005053363a2be741a95c651e68": {
+  "cliente": "room-10-centro",
+  "active": true,
+  "hwid": "093d8eca-5b28-4ec8-b1e5-c45a935669f2"
 }
 }
