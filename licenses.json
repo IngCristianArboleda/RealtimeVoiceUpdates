@@ -118,5 +118,10 @@
   "cliente": "room-15-centro",
   "active": true,
   "hwid": "82b59955-2885-43ad-8968-91413e4cacf9"
+},
+  "bee00752166e8f9f3e315a4e8e6079f7dbfc6f523ada33834d0bb2d5a088b32b": {
+  "cliente": "room-1-centro",
+  "active": true,
+  "hwid": "6a222a32-0b44-4100-8c1b-e17564a73f6f"
 }
 }
