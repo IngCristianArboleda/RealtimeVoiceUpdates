@@ -198,5 +198,10 @@
   "cliente": "ROOM-3-MOCAWA",
   "active": true,
   "hwid": "1596db08-d66a-4fce-bbc5-e8322cbe7e4a"
+},
+  "49b817a72d5f58d1ed710161d32599bd8b3ab5d420100ded51b73b39d3b44feb": {
+  "cliente": "ROOM-7-MOCAWA",
+  "active": true,
+  "hwid": "168c9c2e-896a-4435-bdcb-ffeb5ba2f59e"
 }
 }
