@@ -158,5 +158,10 @@
   "cliente": "room-4-castellana",
   "active": true,
   "hwid": "d9dc4f3f-2508-4c98-80eb-c337cf8be7b4"
+},
+  "86c62c578bbe3d84ee85dc9209000466048e4adba083f7d74cf0f9b2b2986428": {
+  "cliente": "room-6-castellana",
+  "active": true,
+  "hwid": "2b3d43b0-5e53-4c1e-8196-c02c4ee026a3"
 }
 }
