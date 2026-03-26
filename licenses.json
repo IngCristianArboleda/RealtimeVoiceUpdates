@@ -153,5 +153,10 @@
   "cliente": "room-2-centro",
   "active": true,
   "hwid": "4c1ea5be-9588-447e-98f1-9b8b2737f625"
+},
+  "633ccd2a0c652bfd778f431c95477138c3d12f6a257d781eb8f4581db1021639": {
+  "cliente": "room-4-castellana",
+  "active": true,
+  "hwid": "d9dc4f3f-2508-4c98-80eb-c337cf8be7b4"
 }
 }
