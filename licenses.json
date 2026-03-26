@@ -208,5 +208,10 @@
   "cliente": "ROOM-3-CASTELLANA",
   "active": true,
   "hwid": "b171ca72-c500-461e-87fd-f76bede534af"
+},
+  "7a715b179dd3f8f3024f01b744c84a728a6026b16e8a2eef5b4ba3499a90a86b": {
+  "cliente": "ROOM-5-CASTELLANA",
+  "active": true,
+  "hwid": "c2e4461a-5a5e-4576-a57f-ca1b579dd015"
 }
 }
