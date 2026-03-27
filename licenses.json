@@ -233,5 +233,10 @@
   "cliente": "ROOM-6-CENTENARIO",
   "active": true,
   "hwid": "6a0b142a-28cf-4713-8b94-93856a0f1d48"
+},
+  "350c054ed8d0affe784b4f1269cde24221b3750c6fcc9cbb864d740d90bf6681": {
+  "cliente": "ROOM-7-CENTENARIO",
+  "active": true,
+  "hwid": "cb6a47b8-80d7-43cf-89b5-62bcea8bd432"
 }
 }
