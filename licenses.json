@@ -248,5 +248,10 @@
   "cliente": "room-13-laureles",
   "active": true,
   "hwid": "e4f289f5-1c7a-4f56-9c5b-85ff9ed7634e"
+},
+  "3afda892d97568104101127f2df517b12699fa3c85b40541484d4fb6497a1f9b": {
+  "cliente": "room-15-laureles",
+  "active": true,
+  "hwid": "7baa9897-d6bc-434b-b094-cd60b095457c"
 }
 }
