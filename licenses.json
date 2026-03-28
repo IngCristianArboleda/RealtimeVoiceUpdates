@@ -243,5 +243,10 @@
   "cliente": "ROOM-10-CENTENARIO",
   "active": true,
   "hwid": "bb7baeeb-6307-4829-a17c-3ee165943b42"
+}, 
+  "7227f15853ed97ad70f37d5d8c729e5e33c6c1aaac30a1fde977fd02d8cd2e15": {
+  "cliente": "room-13-laureles",
+  "active": true,
+  "hwid": "e4f289f5-1c7a-4f56-9c5b-85ff9ed7634e"
 }
 }
