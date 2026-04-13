@@ -253,5 +253,11 @@
   "cliente": "room-15-laureles",
   "active": true,
   "hwid": "7baa9897-d6bc-434b-b094-cd60b095457c"
+},
+  "d3816716699be46a9a4b1e8e0ff32bd23467463aa612c6acc03c8313cf2db228": {
+  "cliente": "room-7-castellana",
+  "active": true,
+  "hwid": "ea8d0434-06b7-472b-ad64-97af4d0352b3"
 }
+  
 }
