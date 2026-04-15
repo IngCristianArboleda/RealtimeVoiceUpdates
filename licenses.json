@@ -268,6 +268,11 @@
   "cliente": "room-12A-centro",
   "active": true,
   "hwid": "a6f99ea1-91a9-45ba-a8bb-a7faed2ab2c5"
+},
+  "970ffd39ba101b3b4062da5dea9ab597368534d1709b58b11a77b52c8935265e": {
+  "cliente": "ROOM-11-LAURELES",
+  "active": true,
+  "hwid": "a53c25c3-f7a5-4d97-bad1-53eebb8f8218"
 }
   
 }
