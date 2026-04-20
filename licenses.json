@@ -278,6 +278,11 @@
   "cliente": "Andres-Ramirez",
   "active": true,
   "hwid": "cffaa399-f533-40a3-bd43-df6b4df69a96"
+},
+  "1d9a2df3467d7da939fce8c51578165f65f0188f9946d34f0064476de54fdaf8": {
+  "cliente": "ROOM-1-FUTURA",
+  "active": true,
+  "hwid": "4be0e868-b1ff-4c23-938e-61362afca33d"
 }
   
 }
