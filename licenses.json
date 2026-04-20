@@ -273,6 +273,11 @@
   "cliente": "ROOM-11-LAURELES",
   "active": true,
   "hwid": "a53c25c3-f7a5-4d97-bad1-53eebb8f8218"
+},
+  "7d8e96791a8e882101fe49e3b63ae7b1557293a885460afdd53d386adca9e788": {
+  "cliente": "Andres-Ramirez",
+  "active": true,
+  "hwid": "cffaa399-f533-40a3-bd43-df6b4df69a96"
 }
   
 }
