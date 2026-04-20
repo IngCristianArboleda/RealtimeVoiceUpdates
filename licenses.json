@@ -283,6 +283,11 @@
   "cliente": "ROOM-1-FUTURA",
   "active": true,
   "hwid": "4be0e868-b1ff-4c23-938e-61362afca33d"
+},
+  "bad965c2593c20906e6a69ae601308eb9421ce7e8e9925cd236cc2aa50108938": {
+  "cliente": "Stiven-Gomez",
+  "active": true,
+  "hwid": "e4246ff3-77ca-40fe-9206-5c67e63959c0"
 }
   
 }
