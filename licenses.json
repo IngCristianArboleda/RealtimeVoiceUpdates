@@ -288,6 +288,11 @@
   "cliente": "Stiven-Gomez",
   "active": true,
   "hwid": "e4246ff3-77ca-40fe-9206-5c67e63959c0"
+},
+  "5efd70f79de73ff92cbfff6a6cf8c0ecde7a5e74e89c961477d36d83a5e99a5b": {
+  "cliente": "Futura-room-2",
+  "active": true,
+  "hwid": "d512c9aa-9b04-416d-8b96-ff18b5387480"
 }
   
 }
