@@ -293,6 +293,11 @@
   "cliente": "Futura-room-2",
   "active": true,
   "hwid": "d512c9aa-9b04-416d-8b96-ff18b5387480"
+},
+  "845e8aa0b1200c1867347b8c2142cb53da9961dc8cae0dfa2c391081098ff624": {
+  "cliente": "Desarrollo-GB",
+  "active": true,
+  "hwid": "baf5b62d-e46f-4bb2-af96-ba03bb4b4062"
 }
   
 }
