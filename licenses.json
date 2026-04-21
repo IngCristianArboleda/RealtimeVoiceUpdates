@@ -298,6 +298,11 @@
   "cliente": "Desarrollo-GB",
   "active": true,
   "hwid": "baf5b62d-e46f-4bb2-af96-ba03bb4b4062"
+},
+  "4e86e4c66d749f9ba092543f65fa49fbfc188fc4aef849fc012653e988266764": {
+  "cliente": "2-desarrolloGB",
+  "active": true,
+  "hwid": "mac-9c6b00c84d9d"
 }
   
 }
