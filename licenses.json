@@ -303,6 +303,11 @@
   "cliente": "2-desarrolloGB",
   "active": true,
   "hwid": "mac-9c6b00c84d9d"
+},
+  "1939c51a7c4e1ca7542b9d9a44a481d449f2a645593556351733017c1ff484c2": {
+  "cliente": "ROOM-4-DLCAMS",
+  "active": true,
+  "hwid": "7663deaf-e6c3-42f5-9dae-fc778badcf6d"
 }
   
 }
