@@ -308,6 +308,12 @@
   "cliente": "ROOM-4-DLCAMS",
   "active": true,
   "hwid": "7663deaf-e6c3-42f5-9dae-fc778badcf6d"
+},
+  "6298f9b48a8de5e1b71fcf8971b671b39a03f9797dacbe93f49ebe770dfb3c61": {
+  "cliente": "room-2rosario-genesis",
+  "active": true,
+  "hwid": "e8e6094c-87b6-4736-b1b3-d9e03f5ab19e"
 }
+  
   
 }
