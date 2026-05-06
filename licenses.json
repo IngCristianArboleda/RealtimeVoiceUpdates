@@ -318,7 +318,11 @@
   "cliente": "room-6rosario-genesis",
   "active": true,
   "hwid": "9ea4c18d-0f6e-42ab-8c04-d2004c6864b8"
+},
+  "ad573499ffffcc2203a02e1f47674629f4d627d0dffd99e47e5abb7561d91633": {
+  "cliente": "room-1-lotus",
+  "active": true,
+  "hwid": "a2e64dbe-91af-4511-a657-db12a9a0b5a4"
 }
-  
   
 }
