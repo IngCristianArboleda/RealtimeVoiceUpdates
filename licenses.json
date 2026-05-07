@@ -328,6 +328,11 @@
   "cliente": "Lotus-room-2",
   "active": true,
   "hwid": "cdbbe197-0fd6-4ad5-8664-3a627a491e97"
+},
+  "75e0e9ea0c22c621fb21fb269ea46012804a66edbda42a8f7d4bcc40facbd239": {
+  "cliente": "ROOM-7-CENTRO",
+  "active": true,
+  "hwid": "66811551-19d1-40dd-b74d-1dcaa2b9dd3a"
 }
   
 }
