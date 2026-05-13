@@ -343,6 +343,11 @@
   "cliente": "PC-XIME-SOP",
   "active": true,
   "hwid": "f9be8483-9394-4939-b4e1-6897f137cc8a"
+},
+  "dbdb438fa9e2bd98c826c9350a421b88b49371242496326f28ed5249cc064438": {
+  "cliente": "room-1a-Centro",
+  "active": true,
+  "hwid": "6a222a32-0b44-4100-8c1b-e17564a73f6f"
 }
   
 }
