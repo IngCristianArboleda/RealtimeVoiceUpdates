@@ -338,6 +338,11 @@
   "cliente": "ROOM-7-CENTRO",
   "active": true,
   "hwid": "c5e04f9e-8361-4ac1-a232-6f4a2c43d420"
+},
+  "b2e1554b96181ec1dbb37a0aaaf316e48a578e1f83346577a080eaed9b499ea6": {
+  "cliente": "PC-XIME-SOP",
+  "active": true,
+  "hwid": "f9be8483-9394-4939-b4e1-6897f137cc8a"
 }
   
 }
