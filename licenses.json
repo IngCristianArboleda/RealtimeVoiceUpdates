@@ -348,6 +348,11 @@
   "cliente": "room-1a-Centro",
   "active": true,
   "hwid": "6a222a32-0b44-4100-8c1b-e17564a73f6f"
+},
+  "d54fc1072914357f7600bbd62e580925120898fc2bf8e374afe71d4071dfb747": {
+  "cliente": "Leidy Varon Soporte",
+  "active": true,
+  "hwid": "95664dc1-d0d7-40cc-9786-46bca20eb9e7"
 }
   
 }
