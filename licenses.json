@@ -358,6 +358,11 @@
   "cliente": "Santiago Perez Soporte",
   "active": true,
   "hwid": "3372721a-329c-4575-9070-9c3c88f46045"
+},
+  "6e5f1c95cd4f0f9d6f78b8391a3a54ca6ed1509c2e5a5c0ba8dc5509b1af29be": {
+  "cliente": "Jhony Rojas Soporte",
+  "active": true,
+  "hwid": "7c1be7e0-cca4-46f5-9a46-3dfd65f54a01"
 }
   
 }
