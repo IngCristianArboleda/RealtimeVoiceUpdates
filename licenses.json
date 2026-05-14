@@ -388,6 +388,11 @@
   "cliente": "PC-Diego-desarrollo",
   "active": true,
   "hwid": "e14cdb34-df04-4997-869e-925445368e77"
+},
+  "d803bb32bff288bc3b5a1256e213e6bf0f776d7e2b0e84299fc7922bb721f296": {
+  "cliente": "Edwar Soporte",
+  "active": true,
+  "hwid": "4f82dde3-a35c-41aa-a6fb-0bd79cefcc6d"
 }
   
 }
