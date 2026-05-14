@@ -378,6 +378,11 @@
   "cliente": "Juan Jose Monroy Soporte",
   "active": true,
   "hwid": "32e5bce1-61fd-4779-9cac-227523cabd37"
+},
+  "2f25353cfcf4925fe0884a6f86328109fc183d50daae09a314898690a364e385": {
+  "cliente": "PC-Juan-soporte",
+  "active": true,
+  "hwid": "fda12dbe-2299-48f0-9172-033331a8d33c"
 }
   
 }
