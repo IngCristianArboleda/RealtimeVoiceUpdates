@@ -383,6 +383,11 @@
   "cliente": "PC-Juan-soporte",
   "active": true,
   "hwid": "fda12dbe-2299-48f0-9172-033331a8d33c"
+},
+  "96531728c07b054310eb4f14b148bf4aa70dc066a97fc50e9ad1efbf0705d9ac": {
+  "cliente": "PC-Diego-desarrollo",
+  "active": true,
+  "hwid": "e14cdb34-df04-4997-869e-925445368e77"
 }
   
 }
