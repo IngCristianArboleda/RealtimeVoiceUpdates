@@ -393,6 +393,11 @@
   "cliente": "Edwar Soporte",
   "active": true,
   "hwid": "4f82dde3-a35c-41aa-a6fb-0bd79cefcc6d"
+},
+  "2b53cccb83a61acbcdbf29aa80065a3314bb2472de2336b8da127a4f5e118197": {
+  "cliente": "ROOM-GRIS-EXCELSIOR",
+  "active": true,
+  "hwid": "3b115519-7eaa-4e8f-b9d2-44aaf200ffc3"
 }
   
 }
