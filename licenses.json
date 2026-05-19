@@ -413,6 +413,9 @@
   "cliente": "room 07a castellana",
   "active": true,
   "hwid": "053a3032-21f9-46ad-b28b-39a9e26ec795"
-}
-  
+},
+"b8e7f0db30fb1d0b35032d3bbcb30367b327967726df0fc094e00635fbbaa07b": {
+  "cliente": "Room 7 centenario",
+  "active": true,
+  "hwid": "92b8f744-2547-47a1-8b49-90a1ed8ae5a0"  
 }
