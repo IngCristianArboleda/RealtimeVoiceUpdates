@@ -408,6 +408,11 @@
   "cliente": "Monitor_Centenario",
   "active": true,
   "hwid": "6f9f2a6d-71fc-475c-bcdc-45af82a87a23"
+},
+  "f5683684fe01db1044016065ecfbcb0195c4cd113cd95794543935f2f9b916df": {
+  "cliente": "room 07a castellana",
+  "active": true,
+  "hwid": "053a3032-21f9-46ad-b28b-39a9e26ec795"
 }
   
 }
