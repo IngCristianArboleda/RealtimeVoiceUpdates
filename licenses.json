@@ -403,6 +403,11 @@
   "cliente": "room-1a-Castellana",
   "active": true,
   "hwid": "f57bf339-1a5b-4f32-a765-833effaa3168"
+},
+  "4039567a01f86ac092182d1df52a5d164f1a56abe6a77925c6d0177f216a1eb6": {
+  "cliente": "Monitor_Centenario",
+  "active": true,
+  "hwid": "6f9f2a6d-71fc-475c-bcdc-45af82a87a23"
 }
   
 }
