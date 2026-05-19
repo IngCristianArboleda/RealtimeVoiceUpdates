@@ -398,6 +398,11 @@
   "cliente": "ROOM-GRIS-EXCELSIOR",
   "active": true,
   "hwid": "3b115519-7eaa-4e8f-b9d2-44aaf200ffc3"
+},
+  "f3c6bb435f4bd1896de322ace23e281fb20e75d30508755455efec9674d0154f": {
+  "cliente": "room-1a-Castellana",
+  "active": true,
+  "hwid": "f57bf339-1a5b-4f32-a765-833effaa3168"
 }
   
 }
