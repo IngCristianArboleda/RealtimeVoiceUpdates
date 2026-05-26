@@ -428,5 +428,10 @@
   "cliente": "ROOM 6 BELLANOVA",
   "active": true,
   "hwid": "bd4f4adc-e6bd-450f-badd-d9901421d1f9"
+},
+  "6e750d172707859df76575f0e08f87b78601fb82aca3fa17c04ade9fa06b15f5": {
+  "cliente": "técni-secundario",
+  "active": true,
+  "hwid": "c4f9fee3-bc5a-463c-9453-40de4cf1d22e"
 }
 }
