@@ -433,5 +433,10 @@
   "cliente": "técni-secundario",
   "active": true,
   "hwid": "c4f9fee3-bc5a-463c-9453-40de4cf1d22e"
+},
+  "f5f11f70597a05fdff78cb395e951321353167f9a759a62803e362afab461280": {
+  "cliente": "room-6-mocawa",
+  "active": true,
+  "hwid": "927545df-0531-49dd-a29f-ea180f4fe8bc"
 }
 }
