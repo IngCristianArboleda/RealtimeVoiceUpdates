@@ -438,5 +438,10 @@
   "cliente": "room-6-mocawa",
   "active": true,
   "hwid": "927545df-0531-49dd-a29f-ea180f4fe8bc"
+},
+  "595729b09d42feecf0d53b9f0e7841adacd0019497224a8496688a2701e314f5": {
+  "cliente": "Room-2-Centenario",
+  "active": true,
+  "hwid": "171446a6-e24b-44ae-90f5-84caa38a7c61"
 }
 }
