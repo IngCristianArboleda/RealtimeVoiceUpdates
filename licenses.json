@@ -443,5 +443,10 @@
   "cliente": "Room-2-Centenario",
   "active": true,
   "hwid": "171446a6-e24b-44ae-90f5-84caa38a7c61"
-}
+},
+  "1fe4866abe6c149c5fdcee1564936f89aadeba8dc04e49e61d06f1bc10a43029": {
+  "cliente": "ROOM 3 BELLANOVA",
+  "active": true,
+  "hwid": "131bccce-0f09-4365-8c7a-93c294709326"
+},
 }
