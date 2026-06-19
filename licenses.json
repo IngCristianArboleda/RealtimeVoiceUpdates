@@ -463,5 +463,10 @@
   "cliente": "ROOM 06 Mocawa2",
   "active": true,
   "hwid": "bcdd3528-2b8d-4ca3-90b4-d37d6ca6de9f"
+},
+  "2b82ca207fae6e410ebabdc511a1522171329f77bfcf9639cbcda4b77da8ca6f": {
+  "cliente": "room-1-bellanova",
+  "active": true,
+  "hwid": "88fcd1d9-441c-4c0f-8035-55ed1e1b360b"
 }
 }
