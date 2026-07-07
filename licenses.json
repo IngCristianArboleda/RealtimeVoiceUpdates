@@ -468,5 +468,10 @@
   "cliente": "room-1-bellanova",
   "active": true,
   "hwid": "88fcd1d9-441c-4c0f-8035-55ed1e1b360b"
+},
+  "52612b05bb34a94ce9cf45b763e1995504359e62a81efb6164b8d204125c8771": {
+  "cliente": "Room-14-laureles",
+  "active": true,
+  "hwid": "d1ea2860-2949-4e41-8b0e-58aca5c58760"
 }
 }
